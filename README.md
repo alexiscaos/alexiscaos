@@ -24,7 +24,7 @@
 
 ###
 
-<p align="left">I'm Alexis from Spain<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning React and JavaScript</p>
+<p align="left">I'm Alexis from Spain<br><br>- 🔭 I’m working as Full Stack Developer<br>- 📚 I'm currently learning React and JavaScript</p>
 
 ###
 
